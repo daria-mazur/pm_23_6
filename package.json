@@ -1,0 +1,20 @@
+{
+  "name": "pm_23_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daria-mazur/pm_23_6.git"
+  },
+  "author": "Dara Mazur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daria-mazur/pm_23_6/issues"
+  },
+  "homepage": "https://github.com/daria-mazur/pm_23_6#readme"
+}
