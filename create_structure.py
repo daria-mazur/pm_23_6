@@ -2,7 +2,7 @@ import os
 
 
 def create_structure_for_gulp():
-    main_folders = ["app", "node_modules"]
+    main_folders = ["app", "node_modules", "dist"]
     folders_in_app = ["app/css", "app/fonts", "app/img", "app/js", "app/sass"]
     files = ["gulpfile.js", "package.json", "app/index.html"]
 
